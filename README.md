@@ -16,6 +16,6 @@ The authentication feature adds a layer of security to the system and ensures th
 An extension to this idea is implemented in large size room where a room is divided into regions and each region has a particular set of appliances. When there is presence detected in that region, the appliances will switch on. A common example where such situation arises is a classroom when only half of the room is occupied but all the appliances are switched on. Using this, only the required ones will be on.
 Here, one laser represents one region. When no one is present in region 2 and only the 1st region is populated with people, only the appliances corresponding to that region with switch on. If people are present in all the regions, all the appliances will turn on.
 
-The 2 LDRs are connected to the GPIO pin number 17 and 27 of the Raspberry Pi 3B and the two lights which are controlled are connected to the GPIO pin number 20 and 26.
+The 2 LDRs are connected to the GPIO pin numbers 17 and 27 of the Raspberry Pi 3B and the two lights which are controlled are connected to the GPIO pin numbers 20 and 26.
 
 Link to working of the prototype: https://www.youtube.com/watch?v=8sECTSnM5aU
