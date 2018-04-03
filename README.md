@@ -1,4 +1,4 @@
-Ligero
+#Ligero
 The application provides a graphical interface for controlling various electrical appliances.
 It detects presence in a room and operate appliances accordingly.
 It calculates units of electricity consumed by each appliance.
