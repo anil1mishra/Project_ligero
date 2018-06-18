@@ -58,11 +58,11 @@ t=threading.Thread(target=fir,args=('switch1',26))
 t1=threading.Thread(target=fir,args=('switch2',20))
 t.start()
 t1.start()
-print("hello world")
+
 time.sleep(1)
 
 
-print("har")
+
 
 
 
@@ -164,9 +164,6 @@ ta1.join()
 ta2.join()
 ta3.join()
 ta4.join()
-
-
-print("ashray")
 
 
 t.join()
